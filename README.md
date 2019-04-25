@@ -8,13 +8,13 @@
 
 ## Avant-propos
 
-Ce workshop a été réalisé en mars 2019 dans le cadre de notre formation [BeCode](https://www.becode.org/index_fr.html){:target="_blank" }. Il s'agissait de faire découvrir aux autres membres de notre promotion l'utilité de Gulp pour un développeur. 
+Ce workshop a été réalisé en mars 2019 dans le cadre de notre formation [BeCode](https://www.becode.org/index_fr.html). Il s'agissait de faire découvrir aux autres membres de notre promotion l'utilité de Gulp pour un développeur. 
 
 Ce workshop a été réalisé par :
 
-- [Dylan Maghe](https://github.com/Dylan-Maghe){:target="_blank" };
-- [Gary Petrovski](https://github.com/GaryPetrovski){:target="_blank" };
-- [Meroine El Haddadi](https://github.com/Dylan-Maghe){:target="_blank" };
+- [Dylan Maghe](https://github.com/Dylan-Maghe);
+- [Gary Petrovski](https://github.com/GaryPetrovski);
+- [Meroine El Haddadi](https://github.com/elhaddadi-meroine96);
 - Et moi-même.
 
 ## GulpJS, qu'est-ce que c'est ?
@@ -37,7 +37,7 @@ Intégrer Gulp à un projet va donc être significatif d'un énorme gain de temp
  	
   Pour utiliser Gulp vous aurez besoin de Node.js. Pour l'installer, cliquez le lien suivant:
 	
-- https://nodejs.org/en/download/{:target="_blank" }
+- https://nodejs.org/en/download/
 
 Une fois que l'installation de Node.js est terminée, tapez la commande suivante afin d'installer gulp de manière globale sur votre ordinateur:
 
@@ -226,7 +226,7 @@ gulp.task('img', () => {
 
 ## Ressources utiles
 
-- https://gulpjs.com/ {:target="_blank" }
-- https://github.com/gulpjs/gulp {:target="_blank" }
-- https://www.youtube.com/watch?v=tTrPLQ6nOX8 {:target="_blank" } (tutoriel en anglais et très récent)
-- https://www.alsacreations.com/tuto/lire/1685-ebauche-de-workflow-gulp-taches-uncss-includes-critical-css.html {:target="_blank" }
+- https://gulpjs.com/
+- https://github.com/gulpjs/gulp 
+- https://www.youtube.com/watch?v=tTrPLQ6nOX8 (tutoriel en anglais et très récent)
+- https://www.alsacreations.com/tuto/lire/1685-ebauche-de-workflow-gulp-taches-uncss-includes-critical-css.html
